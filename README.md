@@ -1,5 +1,5 @@
 # 🤖 SlackAI Assistant | Your Smart Workspace Bot
-A smart Slack AI bot that responds to messages, summarizes content, plans tasks, and delivers motivational quotes.  
+⚡ Boost Slack productivity with an AI bot that answers, summarizes, and plans your tasks.
 
 ## 📖 Project Overview
 
@@ -188,5 +188,6 @@ Open a direct message with the bot in Slack and see it respond in real-time:
 - Add persistent memory to handle ongoing conversations.
 
 - Deploy on cloud server for 24/7 availability.
+
 
 
